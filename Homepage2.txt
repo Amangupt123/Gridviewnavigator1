@@ -1,0 +1,232 @@
+import 'package:flutter/material.dart';
+
+class Homepage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+              height: 100,
+              width: 100,
+              //color: Colors.amber,
+              child: Align(alignment: Alignment.center, child: Text("Aman")),
+              decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ]))
+        ])));
+  }
+}
+
+class Ashutosh extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("Hompage")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+              height: 100,
+              width: 100,
+              child: Align(alignment: Alignment.center, child: Text("Ashutosh")),
+              decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ]))
+        ])));
+  }
+}
+
+class Adarsh extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+              height: 100,
+              width: 100,
+              //color: Colors.amber,
+              child: Align(alignment: Alignment.center, child: Text("Adarsh")),
+              decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ]))
+        ])));
+  }
+}
+
+class AjitSir extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+              height: 100,
+              width: 100,
+              child: Align(alignment: Alignment.center, child: Text("AjitSir")),
+              decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ]))
+        ])));
+  }
+}
+
+class AnilSir extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+              height: 100,
+              width: 100,
+              child: Align(alignment: Alignment.center, child: Text("AnilSir")),
+              decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ]))
+        ])));
+  }
+}
+
+class puspendra extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+            height: 100,
+            width: 100,
+          
+            child: Align(alignment: Alignment.center, child: Text("Puspendra")),
+             decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ])
+          )
+        ])));
+  }
+}
+
+class Dewansh extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+            height: 100,
+            width: 100,
+         
+            child: Align(alignment: Alignment.center, child: Text("Dewansh")),
+             decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ])
+          )
+        ])));
+  }
+}
+
+class Archit extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+            height: 100,
+            width: 100,
+            
+            child: Align(alignment: Alignment.center, child: Text("Archit")),
+             decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ])
+          )
+        ])));
+  }
+}
+
+class VishalSir extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+            height: 100,
+            width: 100,
+           
+            child: Align(alignment: Alignment.center, child: Text("VishalSir")),
+             decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ])
+          )
+        ])));
+  }
+}
+
+class Hariom extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+            height: 100,
+            width: 100,
+            
+            child: Align(alignment: Alignment.center, child: Text("Hariom")),
+             decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ])
+          )
+        ])));
+  }
+}
+
+class Himanshu extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+            height: 100,
+            width: 100,
+            color: Colors.amber,  child: Align(alignment: Alignment.center, child: Text("Himanshu")),
+             decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ])
+          )
+        ])));
+  }
+}
+
+class Rohan extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(title: Text("home page")),
+        body: Center(
+            child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+          Container(
+            height: 100,
+            width: 100,
+           
+            child: Align(alignment: Alignment.center, child: Text("Rohan")),
+             decoration: BoxDecoration(color: Colors.amber, boxShadow: [
+                BoxShadow(color: Colors.grey, blurRadius: 10.0, offset: Offset(0.0, 20.0))
+              ])
+          )
+        ])));
+  }
+}
